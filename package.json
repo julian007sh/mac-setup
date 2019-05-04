@@ -10,7 +10,7 @@
         "grunt-gh-pages": "0.9.1",
         "grunt-cli": "0.1.11",
         "gitbook": "0.6.0",
-        "grunt-http-server": "0.0.5",
+        "grunt-http-server": "2.1.0",
         "gitbook-plugin": "0.0.2",
         "gitbook-plugin-autocover": "1.0.1"
     },
@@ -20,7 +20,7 @@
         "grunt-gh-pages": "0.9.1",
         "grunt-cli": "0.1.11",
         "gitbook": "0.6.0",
-        "grunt-http-server": "0.0.5",
+        "grunt-http-server": "2.1.0",
         "gitbook-plugin": "0.0.2",
         "gitbook-plugin-autocover": "1.0.1"
     },
